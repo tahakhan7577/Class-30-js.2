@@ -27,5 +27,26 @@
 
 // Camel Case
 
-My current qualification = "Intermediate"
-alert(myCurrentQualification)
+// My current qualification = "Intermediate"
+// alert(myCurrentQualification)
+
+// Mathemetical Expressions
+
+// var number1 = 10;
+// var number2 = 30;
+// alert(number1 + number2)
+
+
+
+// var number1 = 10;
+// var number2 = 30;
+
+// var Sum = (number1 + number2)
+// var Subb = (number1 - number2)
+// var Multiply = (number1 * number2)
+// var Divide = (number1 / number2)
+
+// alert(number1 + number2)
+// alert(number1 - number2)
+// alert(number1 * number2)
+// alert(number1 / number2)
