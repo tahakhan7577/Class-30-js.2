@@ -50,3 +50,10 @@
 // alert(number1 - number2)
 // alert(number1 * number2)
 // alert(number1 / number2)
+
+// var day = 1
+// var hours = 24
+// var min = 60
+// var sec = day*hours*min*60
+
+// alert(sec)
