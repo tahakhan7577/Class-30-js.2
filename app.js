@@ -18,9 +18,14 @@
 
 // Short Hand
 
-var greet1 = "Good morning"
-alert(greet1)
-var greet1 = "Good Afternoon"
-alert(greet1)
-var greet1 = "Good evening"
-alert(greet1)
+// var greet1 = "Good morning"
+// alert(greet1)
+// var greet1 = "Good Afternoon"
+// alert(greet1)
+// var greet1 = "Good evening"
+// alert(greet1)
+
+// Camel Case
+
+My current qualification = "Intermediate"
+alert(myCurrentQualification)
